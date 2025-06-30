@@ -1,9 +1,9 @@
 <br clear="both">
 
 <div align="center">
-  <img height="132" src="https://pbs.twimg.com/profile_banners/1270309649150087170/1591706681/1500x500"  />
-</div>
-
+<img src="https://pbs.twimg.com/profile_banners/1270309649150087170/1591706681/1500x500" align="center" style="width: 100%" />
+</div>  
+## <div align="center">Your Trusted Cyber Security Partner</div>  
 ###
 
 <br clear="both">
@@ -31,10 +31,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AppliedCyberDefenseSystems.AppliedCyberDefenseSystems&"  />
 </div>
-
-###
-
-<h1 align="center">Your Trusted Cyber Security partner</h1>
 
 ###
 
