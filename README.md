@@ -1,10 +1,15 @@
-<br clear="both">
-
 <div align="center">
 <img src="https://pbs.twimg.com/profile_banners/1270309649150087170/1591706681/1500x500" align="center" style="width: 100%" />
 </div>  
-### <div align="center">Your Trusted Cyber Security Partner</div>  
-###
+  
+
+## <div align="center">Your Trusted Cyber Security Partner</div>  
+  
+
+- <div align="center">We offer a full-service Information & Cybersecurity solution that identifies, analyses and detects a variety of cyber threats while helping you to better respond and recover from any unwanted intrusions in your business with real-time results.</div>  
+  
+
+<div align="center">﻿Our cybersecurity resilience services cover all avenues of potential breaches through the combined efforts of key Information & Cybersecurity principles and the deployment of ACDS’ rapid detection and response system.</div>  
 
 <br clear="both">
 
