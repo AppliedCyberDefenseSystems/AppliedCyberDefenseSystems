@@ -2,7 +2,7 @@
 <img src="https://pbs.twimg.com/profile_banners/1270309649150087170/1591706681/1500x500" align="center" style="width: 100%" />
 </div>  
 <h1 align="center">Your Trusted Cyber Security Partner</h1>
-<br clear="both">
+
 <div align="center">
   <a href="https://www.facebook.com/AppliedCyberDefenseSystems" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="37" height="25" alt="facebook logo"  />
