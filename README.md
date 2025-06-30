@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://pbs.twimg.com/profile_banners/1270309649150087170/1591706681/1500x500" align="center" style="width: 100%" />
 </div>  
-## <div align="center">Your Trusted Cyber Security Partner</div>
+<h2 align="center">Your Trusted Cyber Security Partner</h2>
 <br clear="both">
 <div align="center">
   <a href="https://www.facebook.com/AppliedCyberDefenseSystems" target="_blank">
