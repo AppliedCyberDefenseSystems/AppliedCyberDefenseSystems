@@ -3,13 +3,7 @@
 </div>  
   
 
-## <div align="center">Your Trusted Cyber Security Partner</div>  
-  
-
-- <div align="center">We offer a full-service Information & Cybersecurity solution that identifies, analyses and detects a variety of cyber threats while helping you to better respond and recover from any unwanted intrusions in your business with real-time results.</div>  
-  
-
-<div align="center">﻿Our cybersecurity resilience services cover all avenues of potential breaches through the combined efforts of key Information & Cybersecurity principles and the deployment of ACDS’ rapid detection and response system.</div>  
+## <div align="center">Your Trusted Cyber Security Partner</div>
 
 <br clear="both">
 
@@ -31,18 +25,6 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AppliedCyberDefenseSystems.AppliedCyberDefenseSystems&"  />
-</div>
-
-###
-
-<p align="center">We offer a full-service Information & Cybersecurity solution that identifies, analyses and detects a variety of cyber threats while helping you to better respond and recover from any unwanted intrusions in your business with real-time results.<br><br>﻿Our cybersecurity resilience services cover all avenues of potential breaches through the combined efforts of key Information & Cybersecurity principles and the deployment of ACDS’ rapid detection and response system.</p>
-
-###
-
-<h3 align="left"></h3>
-
-###
+<div align="center">We offer a full-service Information & Cybersecurity solution that identifies, analyses and detects a variety of cyber threats while helping you to better respond and recover from any unwanted intrusions in your business with real-time results.</div>  
+<div align="center">﻿Our cybersecurity resilience services cover all avenues of potential breaches through the combined efforts of key Information & Cybersecurity principles and the deployment of ACDS’ rapid detection and response system.</div>  
