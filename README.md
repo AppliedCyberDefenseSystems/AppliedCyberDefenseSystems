@@ -20,5 +20,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
 </div>
+<br clear="both">
 <div align="center">We offer a full-service Information & Cybersecurity solution that identifies, analyses and detects a variety of cyber threats while helping you to better respond and recover from any unwanted intrusions in your business with real-time results.</div>
+<br clear="both">
 <div align="center">﻿Our cybersecurity resilience services cover all avenues of potential breaches through the combined efforts of key Information & Cybersecurity principles and the deployment of ACDS’ rapid detection and response system.</div>  
