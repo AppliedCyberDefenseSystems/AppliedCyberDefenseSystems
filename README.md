@@ -21,5 +21,4 @@
   </a>
 </div>
 <div align="center">We offer a full-service Information & Cybersecurity solution that identifies, analyses and detects a variety of cyber threats while helping you to better respond and recover from any unwanted intrusions in your business with real-time results.</div>
-
 <div align="center">﻿Our cybersecurity resilience services cover all avenues of potential breaches through the combined efforts of key Information & Cybersecurity principles and the deployment of ACDS’ rapid detection and response system.</div>  
